@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [MBA]!
+# 👋 Hi, I'm MBA!
 
 - 🌱 I’m currently learning Next.js and TypeScript.
 - 💻 Frontend Developer skilled in React.js & Tailwind CSS.
