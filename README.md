@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MBA!
 
-- 🌱 I’m currently learning Next.js and TypeScript.
+- 🌱  Next.js and TypeScript developer.
 - 💻 Frontend Developer skilled in React.js & Tailwind CSS.
 - 📫 How to reach me: [emmanuelmba329@gmail.com](mailto:emmanuelmba329@gmail.com)
 - 🚀 My GitHub Streak:  
